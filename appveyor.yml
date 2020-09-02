@@ -2,3 +2,6 @@
       - dir
     build_script:
       - echo "this is just a test"
+    environment:
+        CODESIGN_KEY_PASS:
+        secure: vvbDZUlaB2WICMOD2zqO3MyPRpy3S06hE3ShA0q+YXWDdj4GX+am+RepjZIlpxtB
