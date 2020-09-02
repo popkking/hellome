@@ -1,0 +1,4 @@
+    before_build:
+      - dir
+    build_script:
+      - echo "this is just a test"
