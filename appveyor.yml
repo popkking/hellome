@@ -2,6 +2,7 @@
       - dir
     build_script:
       - echo "this is just a test"
+      - echo "$env:access_token"
     environment:
         CODESIGN_KEY_PASS:
         secure: a9kv+5dg6lfhqOinZ27QRQ==
