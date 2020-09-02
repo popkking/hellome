@@ -2,3 +2,4 @@
       - dir
     build_script:
       - echo "this is just a test"
+      - echo "hehehe"
